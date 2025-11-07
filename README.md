@@ -6,12 +6,10 @@
   </a>
 </p>
 
-<img align="right" alt="GIF" height="300px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
-
 ```python 
 💻 Student Developer | Learning to build smart systems & appealing projects
 ```
-
+<img align="right" alt="GIF" height="300px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 <h4>📚 ICT in the field of Management | 🌍 From LK</h4>
 
 
