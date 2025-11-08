@@ -37,6 +37,44 @@
 
 ---
 
+<h2>🚀 Current Interests</h2>
+
+<p style="font-family: 'Courier New', monospace; line-height: 1.8; color: #c9d1d9;">
+  🧠 <b>Artificial Intelligence</b><br>
+  🌐 <b>Web Design & Development</b><br>
+  ⚙️ <b>Building Custom Operating Systems</b><br>
+  🎮 <b>Game Development</b>
+</p>
+
+<hr style="border: 0; height: 2px; background: linear-gradient(90deg, #ff00ff, #8a2be2, #00ffff); border-radius: 5px;">
+
+### 📊 GitHub Stat
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Sineth-Suriyapperuma&show_icons=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF" alt="GitHub Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sineth-Suriyapperuma&layout=compact&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" alt="Top Languages">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=Sineth-Suriyapperuma&theme=tokyonight&hide_border=true">
+    <td>
+      <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Jokes Card">
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sineth-suriyapperuma&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph">
+</p>
+
+
+<hr style="border: 0; height: 2px; background: linear-gradient(90deg, #ff00ff, #8a2be2, #00ffff); border-radius: 5px;">
+
 ### 🧩 Featured Project — Text Encryptor (Python)
 > A simple encryption script that shifts ASCII characters and converts them into binary for fun experimentation.
 
@@ -99,45 +137,6 @@ os.system('pause')
 </p>
 
 <hr style="border: 0; height: 2px; background: linear-gradient(90deg, #00ffff, #8a2be2, #ff00ff); border-radius: 5px;">
-
-<!-- 🚀 Current Interests -->
-<h2>🚀 Current Interests</h2>
-
-<p style="font-family: 'Courier New', monospace; line-height: 1.8; color: #c9d1d9;">
-  🧠 <b>Artificial Intelligence</b><br>
-  🌐 <b>Web Design & Development</b><br>
-  ⚙️ <b>Building Custom Operating Systems</b><br>
-  🎮 <b>Game Development</b>
-</p>
-
-<hr style="border: 0; height: 2px; background: linear-gradient(90deg, #ff00ff, #8a2be2, #00ffff); border-radius: 5px;">
-
-### 📊 GitHub Stat
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Sineth-Suriyapperuma&show_icons=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF" alt="GitHub Stats">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sineth-Suriyapperuma&layout=compact&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" alt="Top Languages">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=Sineth-Suriyapperuma&theme=tokyonight&hide_border=true">
-    <td>
-      <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Jokes Card">
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sineth-suriyapperuma&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph">
-</p>
-
-
-<hr style="border: 0; height: 2px; background: linear-gradient(90deg, #ff00ff, #8a2be2, #00ffff); border-radius: 5px;">
 
 ### ⚡ <b><i>"Code. Learn. Evolve."</i></b><br><br>
 <p>
